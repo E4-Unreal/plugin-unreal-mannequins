@@ -1,6 +1,6 @@
 # Plugin UnrealMannequins
 
-UE4, UE5 마네킹 콘텐츠 전용 플러그인
+언리얼 마네킹 및 애니메이션 에셋 콘텐츠 전용 플러그인
 
 ## 설치 방법
 
