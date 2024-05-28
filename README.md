@@ -1,6 +1,7 @@
-# Plugin UnrealMannequins
+# Plugin Unreal Mannequins
 
-언리얼 마네킹 및 애니메이션 에셋 콘텐츠 전용 플러그인
+- 에픽게임즈 무료 콘텐츠 
+- 기본 캐릭터 및 애니메이션 스타터 팩
 
 ## 설치 방법
 
